@@ -8,6 +8,16 @@
 
 ### :bookmark_tabs: My projects
 -  [Test-Case](https://github.com/Norize49/Test-Case)
+-  [Bug Reports](https://github.com/Norize49/Bug-Reports)
+-  [Jira](https://github.com/Norize49/Jira)
+-  [Types of testing](https://github.com/Norize49/Types-of-testing)
+-  [HTML & CSS](https://github.com/Norize49/HTML-CSS)
+-  [SQL](https://github.com/Norize49/SQL)
+-  [SoapUI](https://github.com/Norize49/SoapUI)
+-  [Checklist](https://github.com/Norize49/Check-list)
+-  [Test Design](https://github.com/Norize49/Test-Design)
+-  [Test Design №2](https://github.com/Norize49/Test-Design-2)
+-  [Test-Plan](https://github.com/Norize49/Test-Plan)
 ### :hammer_and_wrench: Languages and Tools
 ![Jira](https://img.shields.io/badge/Jira-A6E7FF?style=for-the-badge&logo=Jirasoftware&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/Confluence-A6E7FF?style=for-the-badge&logo=Confluence&logoColor=blue)
