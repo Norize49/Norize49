@@ -7,7 +7,7 @@
 -  [My CV](https://drive.google.com/file/d/120UltEQ1cG6zm9nL54SYRl22OKZFjDOR/view?usp=sharing)
 
 ### :bookmark_tabs: My projects
-
+-  [Test-Case](https://github.com/Norize49/Test-Case)
 ### :hammer_and_wrench: Languages and Tools
 ![Jira](https://img.shields.io/badge/Jira-A6E7FF?style=for-the-badge&logo=Jirasoftware&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/Confluence-A6E7FF?style=for-the-badge&logo=Confluence&logoColor=blue)
