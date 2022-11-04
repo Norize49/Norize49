@@ -21,7 +21,6 @@
 ### :hammer_and_wrench: Languages and Tools
 ![Jira](https://img.shields.io/badge/Jira-A6E7FF?style=for-the-badge&logo=Jirasoftware&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/Confluence-A6E7FF?style=for-the-badge&logo=Confluence&logoColor=blue)
-![Jmeter](https://img.shields.io/badge/Jmeter-A6E7FF?style=for-the-badge&logo=ApacheJMeter&logoColor=D3462D)
 ![Devtools](https://img.shields.io/badge/Devtools-A6E7FF?style=for-the-badge&logo=GoogleChrome)
 ![TestRail](https://img.shields.io/badge/TestRail-A6E7FF?style=for-the-badge&logo=AllTrails)
 ![Postman](https://img.shields.io/badge/Postman-A6E7FF?style=for-the-badge&logo=Postman)
