@@ -4,7 +4,7 @@
 :technologist: I'm a QA Manual Engineer with personal (non-commercial) testing experience. In my work, I used different types of functional and nonfunctional testing, applied test design techniques, I had learnt API, SQL and HTTP/HTTPS protocols. There are also small projects using HTML and CSS.
 
 ### :page_facing_up: Resume
--  [My CV](https://drive.google.com/file/d/120UltEQ1cG6zm9nL54SYRl22OKZFjDOR/view?usp=sharing)
+-  [My CV](https://1drv.ms/b/s!Ajg_WUtbiCJyggL6zCokebpZ88rs?e=tNDSrS)
 
 ### :bookmark_tabs: My projects
 -  [Test-Case](https://github.com/Norize49/Test-Case)
