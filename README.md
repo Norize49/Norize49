@@ -4,7 +4,7 @@
 :technologist: I'm a QA Manual Engineer with personal (non-commercial) testing experience. In my work, I used different types of functional and nonfunctional testing, applied test design techniques, I had learnt API, SQL and HTTP/HTTPS protocols. There are also small projects using HTML and CSS.
 
 ### :page_facing_up: Resume
--  [My CV](https://1drv.ms/b/s!Ajg_WUtbiCJyggL6zCokebpZ88rs?e=tNDSrS)
+-  [My CV](https://drive.google.com/drive/u/0/folders/1lj2dwm2FfkjdvUOBe05Y8d6rwE0LCLaN)
 
 ### :bookmark_tabs: My projects
 -  [Test-Case](https://github.com/Norize49/Test-Case)
@@ -18,6 +18,10 @@
 -  [Test Design](https://github.com/Norize49/Test-Design)
 -  [Test Design №2](https://github.com/Norize49/Test-Design-2)
 -  [Test-Plan](https://github.com/Norize49/Test-Plan)
+
+### :scroll: Certificates
+- [QA Manual](https://certificate.ithillel.ua/view/61012445)
+
 ### :hammer_and_wrench: Languages and Tools
 ![Jira](https://img.shields.io/badge/Jira-A6E7FF?style=for-the-badge&logo=Jirasoftware&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/Confluence-A6E7FF?style=for-the-badge&logo=Confluence&logoColor=blue)
