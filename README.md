@@ -26,7 +26,6 @@
 ![Jira](https://img.shields.io/badge/Jira-A6E7FF?style=for-the-badge&logo=Jirasoftware&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/Confluence-A6E7FF?style=for-the-badge&logo=Confluence&logoColor=blue)
 ![Devtools](https://img.shields.io/badge/Devtools-A6E7FF?style=for-the-badge&logo=GoogleChrome)
-![TestRail](https://img.shields.io/badge/TestRail-A6E7FF?style=for-the-badge&logo=AllTrails)
 ![Postman](https://img.shields.io/badge/Postman-A6E7FF?style=for-the-badge&logo=Postman)
 ![SoapUI](https://img.shields.io/badge/SoapUI-A6E7FF?style=for-the-badge&logo=FastAPI&logoColor=FCDC00)
 ![GitHub](https://img.shields.io/badge/GitHub-A6E7FF?style=for-the-badge&logo=GitHub&logoColor=black)
