@@ -1,7 +1,7 @@
 [![Header](https://github.com/Norize49/Norize49/blob/main/assets/Bohdan%20Piskovskyi.jpg)](https://www.linkedin.com/in/bohdan-piskovskyi-65984a23a/)
 
 ### :airplane: About me:
-:technologist: I'm a QA Manual Engineer with personal (non-commercial) testing experience. In my work, I used different types of functional and nonfunctional testing, applied test design techniques, I had learnt API, SQL and HTTP/HTTPS protocols. There are also small projects using HTML and CSS.
+:technologist: I’m a QA Manual Engineer with personal testing experience. In my work, I used different types of functional and non-functional testing, applied test design techniques. I had learnt API, SQL and HTTP/HTTPS protocols. I had some experience as a freelancer at Payever, in this company I tested the Web application, did UI testing and also regression testing.Also I have small projects using HTML and CSS.
 
 ### :page_facing_up: Resume
 -  [My CV](https://drive.google.com/file/d/1pQXstZUkQyNZGh-_IHHTa1k_wkcguWRz/view?usp=sharing)
