@@ -4,7 +4,7 @@
 :technologist: I'm a QA Manual Engineer with personal (non-commercial) testing experience. In my work, I used different types of functional and nonfunctional testing, applied test design techniques, I had learnt API, SQL and HTTP/HTTPS protocols. There are also small projects using HTML and CSS.
 
 ### :page_facing_up: Resume
--  [My CV](https://drive.google.com/file/d/1oZqhGzeoKA5mHJgrMsEiBhyKhOsdXydU/view?usp=sharing)
+-  [My CV](https://drive.google.com/file/d/1pQXstZUkQyNZGh-_IHHTa1k_wkcguWRz/view?usp=sharing)
 
 ### :bookmark_tabs: My projects
 -  [Test-Case](https://github.com/Norize49/Test-Case)
@@ -30,6 +30,7 @@
 ![SoapUI](https://img.shields.io/badge/SoapUI-A6E7FF?style=for-the-badge&logo=FastAPI&logoColor=FCDC00)
 ![GitHub](https://img.shields.io/badge/GitHub-A6E7FF?style=for-the-badge&logo=GitHub&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-A6E7FF?style=for-the-badge&logo=MySQL)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-A6E7FF?style=for-the-badge&logo=AndroidStudio&logoColor=blue)
 ### :link: Contacts me
 [![Email](https://img.shields.io/badge/Email-A6E7FF?style=for-the-badge&logo=gmail)](mailto:bogxmll@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-A6E7FF?style=for-the-badge&logo=Telegram)](https://t.me/Norize94)
